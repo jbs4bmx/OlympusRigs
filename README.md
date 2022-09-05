@@ -2,15 +2,15 @@
 Chest rigs and armor from the mountains of Olympus.
 
 
-### Description
+### %~**~% Description %~**~~~~~**~~~~~**~~~~~**~~~~~**~% 
 TBD
 
 
-### Installation
+### %~**~% Installation %~**~~~~~**~~~~~**~~~~~**~~~~~**~% 
 TBD
 
 
-### Credits
+### %~**~% Credits %~**~~~~~**~~~~~**~~~~~**~~~~~**~% 
 TBD
 
 
