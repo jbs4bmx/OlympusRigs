@@ -1,0 +1,28 @@
+
+Mod Information:
+hercRig01: Velocity Systems MPPV Multi-Purpose Patrol Vest
+hercRig02: Ars Arma A18 Skanda plate carrier
+hercRig03: LBT-1961A Load Bearing chest rig
+hercRig04: Crye Precision CPC plate carrier (Goons Edition)
+hercRig05: S&S Precision PlateFrame plate carrier (Goons Edition)
+hercRig06: Tasmanian Tiger SK plate carrier (Multicam Black)
+hercRig07: WARTECH TV-110 plate carrier rig
+hercRig08: NPP KlASS Bagariy armored rig
+hercRig09: Direct Action Thunderbolt compact chest rig
+hercRig10: ANA Tactical Alpha chest rig
+
+
+Reference:
+https://escapefromtarkov.fandom.com/wiki/Chest_rigs
+
+
+Inspiration:
+https://hub.sp-tarkov.com/files/file/242-additionalgear-black-module-unmaintained/
+https://hub.sp-tarkov.com/files/file/331-kmc-gear/
+https://hub.sp-tarkov.com/files/file/495-justnu-s-additional-gear-portpack/
+https://hub.sp-tarkov.com/files/file/743-lukewarmpudding-s-blackgear/
+https://hub.sp-tarkov.com/files/file/509-multicam-black-gear-bundle/
+https://hub.sp-tarkov.com/files/file/119-atlas-gear/?highlight=gear
+https://hub.sp-tarkov.com/files/file/42-additionalgear-core-unmaintained/
+
+

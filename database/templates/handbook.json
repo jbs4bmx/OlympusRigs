@@ -1,0 +1,54 @@
+{
+    "Items": [
+        {
+            "Id": "hercRig01",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 90000
+        },
+        {
+            "Id":"hercRig02",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 130000
+        },
+        {
+            "Id":"hercRig03",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 130000
+        },
+        {
+            "Id":"hercRig04",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 130000
+        },
+        {
+            "Id":"hercRig05",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 130000
+        },
+        {
+            "Id":"hercRig06",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 130000
+        },
+        {
+            "Id":"hercRig07",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 130000
+        },
+        {
+            "Id":"hercRig08",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 130000
+        },
+        {
+            "Id":"hercRig09",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 130000
+        },
+        {
+            "Id":"hercRig10",
+            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Price": 130000
+        }
+    ]
+}
