@@ -1,5 +1,13 @@
 {
-    "hercRig01":[
+    "armorOfAthena":[
+        [
+            {
+                "count": 200000,
+                "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+        ]
+    ],
+    "atlasSatchel":[
         [
             {
                 "count": 100000,
@@ -7,7 +15,7 @@
             }
         ]
     ],
-    "hercRig02":[
+    "hercRig":[
         [
             {
                 "count": 100000,
@@ -15,7 +23,7 @@
             }
         ]
     ],
-    "hercRig03":[
+    "hercRig2":[
         [
             {
                 "count": 100000,
@@ -23,58 +31,10 @@
             }
         ]
     ],
-    "hercRig04":[
+    "helmetOfHermes":[
         [
             {
-                "count": 100000,
-                "_tpl": "5449016a4bdc2d6f028b456f"
-            }
-        ]
-    ],
-    "hercRig05":[
-        [
-            {
-                "count": 100000,
-                "_tpl": "5449016a4bdc2d6f028b456f"
-            }
-        ]
-    ],
-    "hercRig06":[
-        [
-            {
-                "count": 100000,
-                "_tpl": "5449016a4bdc2d6f028b456f"
-            }
-        ]
-    ],
-    "hercRig07":[
-        [
-            {
-                "count": 100000,
-                "_tpl": "5449016a4bdc2d6f028b456f"
-            }
-        ]
-    ],
-    "hercRig08":[
-        [
-            {
-                "count": 100000,
-                "_tpl": "5449016a4bdc2d6f028b456f"
-            }
-        ]
-    ],
-    "hercRig09":[
-        [
-            {
-                "count": 100000,
-                "_tpl": "5449016a4bdc2d6f028b456f"
-            }
-        ]
-    ],
-    "hercRig10":[
-        [
-            {
-                "count": 100000,
+                "count": 125000,
                 "_tpl": "5449016a4bdc2d6f028b456f"
             }
         ]

@@ -1,18 +1,4 @@
 {
-    "Resize": true,
-    "Sicc": {
-        "defaultEFTSize": "5x5 - Don't change this value. It's just here for informational purposes.",
-        "newHSize":5,
-        "newVSize":5
-    },
-    "KeyTool": {
-        "defaultEFTSize": "4x4 - Don't change this value. It's just here for informational purposes.",
-        "newHSize":4,
-        "newVSize":4
-    },
-    "MoneyCase": {
-        "defaultEFTSize": "7x7 - Don't change this value. It's just here for informational purposes.",
-        "newHSize":7,
-        "newVSize":7
-    }
+    "BLACKLISTS_COMMENT": "true/false: Setting this value to true will stop bots from generating with Olympus items in their inventory.",
+    "blacklistGear": false,
 }

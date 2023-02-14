@@ -1,8 +1,8 @@
 {
     "list": [
         {
-            "_id": "hercRig01",
-            "_tpl": "hercRig01",
+            "_id": "armorOfAthena",
+            "_tpl": "armorOfAthena",
             "parentId": "hideout",
             "slotId": "hideout",
             "upd": {
@@ -11,8 +11,8 @@
             }
         },
         {
-            "_id": "hercRig02",
-            "_tpl": "hercRig02",
+            "_id": "atlasSatchel",
+            "_tpl": "atlasSatchel",
             "parentId": "hideout",
             "slotId": "hideout",
             "upd": {
@@ -21,8 +21,8 @@
             }
         },
         {
-            "_id": "hercRig03",
-            "_tpl": "hercRig03",
+            "_id": "hercRig",
+            "_tpl": "hercRig",
             "parentId": "hideout",
             "slotId": "hideout",
             "upd": {
@@ -31,8 +31,8 @@
             }
         },
         {
-            "_id": "hercRig04",
-            "_tpl": "hercRig04",
+            "_id": "hercRig2",
+            "_tpl": "hercRig2",
             "parentId": "hideout",
             "slotId": "hideout",
             "upd": {
@@ -41,58 +41,8 @@
             }
         },
         {
-            "_id": "hercRig05",
-            "_tpl": "hercRig05",
-            "parentId": "hideout",
-            "slotId": "hideout",
-            "upd": {
-                "UnlimitedCount": true,
-                "StackObjectsCount": 999999
-            }
-        },
-        {
-            "_id": "hercRig06",
-            "_tpl": "hercRig06",
-            "parentId": "hideout",
-            "slotId": "hideout",
-            "upd": {
-                "UnlimitedCount": true,
-                "StackObjectsCount": 999999
-            }
-        },
-        {
-            "_id": "hercRig07",
-            "_tpl": "hercRig07",
-            "parentId": "hideout",
-            "slotId": "hideout",
-            "upd": {
-                "UnlimitedCount": true,
-                "StackObjectsCount": 999999
-            }
-        },
-        {
-            "_id": "hercRig08",
-            "_tpl": "hercRig08",
-            "parentId": "hideout",
-            "slotId": "hideout",
-            "upd": {
-                "UnlimitedCount": true,
-                "StackObjectsCount": 999999
-            }
-        },
-        {
-            "_id": "hercRig09",
-            "_tpl": "hercRig09",
-            "parentId": "hideout",
-            "slotId": "hideout",
-            "upd": {
-                "UnlimitedCount": true,
-                "StackObjectsCount": 999999
-            }
-        },
-        {
-            "_id": "hercRig10",
-            "_tpl": "hercRig10",
+            "_id": "helmetOfHermes",
+            "_tpl": "helmetOfHermes",
             "parentId": "hideout",
             "slotId": "hideout",
             "upd": {

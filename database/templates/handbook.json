@@ -1,54 +1,29 @@
 {
     "Items": [
         {
-            "Id": "hercRig01",
-            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Id": "armorOfAthena",
+            "ParentId": "5b5f701386f774093f2ecf0f",
+            "Price": 160000
+        },
+        {
+            "Id": "atlasSatchel",
+            "ParentId": "5b5f6f6c86f774093f2ecf0b",
+            "Price": 70000
+        },
+        {
+            "Id": "hercRig",
+            "ParentId": "5b5f6f8786f77447ed563642",
             "Price": 90000
         },
         {
-            "Id":"hercRig02",
-            "ParentId": "5448e5284bdc2dcb718b4567",
+            "Id":"hercRig2",
+            "ParentId": "5b5f6f8786f77447ed563642",
             "Price": 130000
         },
         {
-            "Id":"hercRig03",
-            "ParentId": "5448e5284bdc2dcb718b4567",
-            "Price": 130000
-        },
-        {
-            "Id":"hercRig04",
-            "ParentId": "5448e5284bdc2dcb718b4567",
-            "Price": 130000
-        },
-        {
-            "Id":"hercRig05",
-            "ParentId": "5448e5284bdc2dcb718b4567",
-            "Price": 130000
-        },
-        {
-            "Id":"hercRig06",
-            "ParentId": "5448e5284bdc2dcb718b4567",
-            "Price": 130000
-        },
-        {
-            "Id":"hercRig07",
-            "ParentId": "5448e5284bdc2dcb718b4567",
-            "Price": 130000
-        },
-        {
-            "Id":"hercRig08",
-            "ParentId": "5448e5284bdc2dcb718b4567",
-            "Price": 130000
-        },
-        {
-            "Id":"hercRig09",
-            "ParentId": "5448e5284bdc2dcb718b4567",
-            "Price": 130000
-        },
-        {
-            "Id":"hercRig10",
-            "ParentId": "5448e5284bdc2dcb718b4567",
-            "Price": 130000
+            "Id": "helmetOfHermes",
+            "ParentId": "5b47574386f77428ca22b330",
+            "Price": 95000
         }
     ]
 }

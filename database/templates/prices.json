@@ -1,12 +1,7 @@
 {
-    "hercRig01": 90000,
-    "hercRig02": 130000,
-    "hercRig03": 0,
-    "hercRig04": 0,
-    "hercRig05": 0,
-    "hercRig06": 0,
-    "hercRig07": 0,
-    "hercRig08": 0,
-    "hercRig09": 0,
-    "hercRig10": 0
+    "armorOfAthena": 160000,
+    "atlasSatchel": 70000,
+    "hercRig": 90000,
+    "hercRig2": 130000,
+    "helmetOfHermes": 95000
 }

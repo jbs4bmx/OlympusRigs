@@ -1,54 +1,17 @@
 {
-	"templates": {
-		"hercRig01": {
-			"Name": "Hercules' Rig 01",
-			"ShortName": "Hercules01",
-			"Description": "If heroic labors didn't stop him, what makes you think a little weight matters?"
-		},
-		"hercRig02":{
-			"Name": "Hercules' Rig 02",
-			"ShortName": "Hercules02",
-			"Description": "All of his strength, and now all of his protection."
-		},
-		"hercRig03":{
-			"Name": "Hercules' Rig 03",
-			"ShortName": "Hercules03",
-			"Description": ""
-		},
-		"hercRig04":{
-			"Name": "Hercules' Rig 04",
-			"ShortName": "Hercules04",
-			"Description": ""
-		},
-		"hercRig05":{
-			"Name": "Hercules' Rig 05",
-			"ShortName": "Hercules05",
-			"Description": ""
-		},
-		"hercRig06":{
-			"Name": "Hercules' Rig 06",
-			"ShortName": "Hercules06",
-			"Description": ""
-		},
-		"hercRig07":{
-			"Name": "Hercules' Rig 07",
-			"ShortName": "Hercules07",
-			"Description": ""
-		},
-		"hercRig08":{
-			"Name": "Hercules' Rig 08",
-			"ShortName": "Hercules08",
-			"Description": ""
-		},
-		"hercRig09":{
-			"Name": "Hercules' Rig 09",
-			"ShortName": "Hercules09",
-			"Description": ""
-		},
-		"hercRig10":{
-			"Name": "Hercules' Rig 10",
-			"ShortName": "Hercules10",
-			"Description": ""
-		}
-    }
+    "armorOfAthena Name": "Armor Of Athena",
+    "armorOfAthena ShortName": "Athena",
+    "armorOfAthena Description": "The Armor Of Athena provides the highest level of protection for all your common body parts. A bit restrictive in movement, you might want to couple it with the Helmet of Hermes.",
+    "atlasSatchel Name": "Atlas' Satchel",
+    "atlasSatchel ShortName": "Atlas",
+    "atlasSatchel Description": "With Atlas' Satchel, you feel like you could carry the world on your back.",
+    "hercRig Name": "Hercules' Rig",
+    "hercRig ShortName": "Hercules1",
+    "hercRig Description": "If heroic labors didn't stop him, what makes you think a little weight matters?",
+    "hercRig2 Name": "Hercules' Rig 2",
+    "hercRig2 ShortName": "Hercules2",
+    "hercRig2 Description": "All of his strength, and now all of his protection.",
+    "helmetOfHermes Name": "Helmet of Hermes",
+    "helmetOfHermes ShortName": "Hermes",
+    "helmetOfHermes Description": "The Helmet of Hermes protects your entire head while also making you feel light on your feet."
 }

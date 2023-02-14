@@ -1,11 +1,11 @@
 {
 	"name": "OlympusRigs",
-	"version": "322.0.1",
-	"main": "src/Riggings.js",
+	"version": "350.0.1",
+	"main": "src/OlympusRigs.js",
 	"license": "NCSA",
 	"author": "AssAssIn",
-	"akiVersion": ">=3.2.2",
-	"scripts": {
+	"akiVersion": "3.5.0",
+    "scripts": {
         "setup:environment": "npm i",
         "build:unzipped": "copyfiles -e \"./node_modules/**/*.*\" -e \"./dist/**/*.*\" -e \"./package-lock.json\" -e \"./tsconfig.json\" -e \"./README.txt\" -e \"./mod.code-workspace\" \"./**/*.*\" ./dist",
         "zip:files": "cd dist/ && bestzip ../mod.zip *",
@@ -22,7 +22,5 @@
         "typescript": "4.6.4",
         "bestzip": "2.2.1"
     },
-	"updateBy": "jbs4bmx",
-	"changeDate": "30 Aug 2022",
-    "releaseDate": "31 Jul 2022"
+	"updateBy": "jbs4bmx"
 }
