@@ -1,8 +1,8 @@
 /**
  *      Name: OlympusRigs
- *   Version: 350.0.1
+ *   Version: 351.0.1
  * Copyright: AssAssIn
- *    Update: [DMY] 13.02.2023
+ *    Update: [DMY] 08.03.2023
 */
 
 import { DependencyContainer } from "tsyringe";
@@ -97,7 +97,10 @@ class Olympus implements IPreAkiLoadMod, IPostDBLoadMod
 
         if (typeof blacklistGear === "boolean"){
             if (blacklistGear === true) {
-                botConfig.pmc.dynamicLoot.blacklist.push("armorOfAthena","atlasSatchel","hercRig","hercRig2","helmetOfHermes");
+                //botConfig.pmc.dynamicLoot.blacklist.push("armorOfAthena","atlasSatchel","hercRig","hercRig2","helmetOfHermes");
+                botConfig.pmc.vestLoot.blacklist.push("armorOfAthena","atlasSatchel","hercRig","hercRig2","helmetOfHermes");
+                botConfig.pmc.pocketLoot.blacklist.push("armorOfAthena","atlasSatchel","hercRig","hercRig2","helmetOfHermes");
+                botConfig.pmc.backpackLoot.blacklist.push("armorOfAthena","atlasSatchel","hercRig","hercRig2","helmetOfHermes");
             }
         }
     }
