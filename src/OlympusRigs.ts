@@ -1,6 +1,6 @@
 /**
  *      Name: OlympusRigs
- *   Version: 351.0.1
+ *   Version: 352.0.1
  * Copyright: AssAssIn
  *    Update: [DMY] 08.03.2023
 */
